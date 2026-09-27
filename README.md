@@ -5,7 +5,7 @@ target="_blank">
 <button> หน้าปก 📍 </button>
 </a>
 
-<a href="https://drive.google.com/file/d/1kQZ1mlmnr-89YIdboTaPFsCGPwAz68xj/view?usp=sharing"
+<a href="https://drive.google.com/file/d/1WUieSYEGGoSAtqOMCpU7x46O-0CAMISL/view?usp=sharing"
 target="_blank">
 <button> เหตุผลในการศึกษาต่อ 📍 </button>
 </a>
