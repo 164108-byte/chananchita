@@ -10,7 +10,7 @@ target="_blank">
 <button> เหตุผลในการศึกษาต่อ 📍 </button>
 </a>
 
-<a href="https://drive.google.com/file/d/1WUieSYEGGoSAtqOMCpU7x46O-0CAMISL/view?usp=sharing"
+<a href="https://drive.google.com/file/d/1Upc3NGoR5vaz1HhRvl1fYQjUUrlD_MDb/view?usp=sharing"
 target="_blank">
 <button> ประวัติส่วนตัว📍 </button>
 </a>
