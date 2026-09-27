@@ -4,3 +4,29 @@ myportfolio
 target="_blank">
 <button> หน้าปก 📍 </button>
 </a>
+
+<a href="https://drive.google.com/file/d/1rvwiDQDFc2XAdI9REaXSEBwFpeZkJK3F/view?usp=sharing"
+target="_blank">
+<button> เหตุผลในการศึกษาต่อ 📍 </button>
+</a>
+
+<a href="https://drive.google.com/file/d/1rvwiDQDFc2XAdI9REaXSEBwFpeZkJK3F/view?usp=sharing"
+target="_blank">
+<button> ประวัติส่วนตัว📍 </button>
+</a>
+
+
+<a href="https://drive.google.com/file/d/1rvwiDQDFc2XAdI9REaXSEBwFpeZkJK3F/view?usp=sharing"
+target="_blank">
+<button> ผลงานและกิจกรรมที่เข้าร่วม📍 </button>
+</a>
+
+<a href="https://drive.google.com/file/d/1rvwiDQDFc2XAdI9REaXSEBwFpeZkJK3F/view?usp=sharing"
+target="_blank">
+<button> ผลงานและกิจกรรมที่เข้าร่วม📍 </button>
+</a>
+
+<a href="https://drive.google.com/file/d/1rvwiDQDFc2XAdI9REaXSEBwFpeZkJK3F/view?usp=sharing"
+target="_blank">
+<button> ผลงานและกิจกรรมที่เข้าร่วม📍 </button>
+</a>
